@@ -1,0 +1,6 @@
+# Default ignored files
+.ipynb_checkpoints
+.idea
+data
+output
+__pycache__
